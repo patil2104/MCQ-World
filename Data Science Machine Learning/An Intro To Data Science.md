@@ -117,3 +117,59 @@ https://www.google.com/search?q=Which+of+the+following+can+be+generally+used+to+
 **Answer :** Option 2
 
 *Explanation : As predictive model predicts what will happen in the future*
+
+> Q11. _____ useful knowledge from data to solve business problems can be treated systematically by following a process with reasonably well-defined stages.
+
+    1. Extracting
+    2. Preparing
+    3. Prescribing
+    4. None
+
+**Answer :**  Option 1
+
+*Explanation : Knowledge cannot be prescribed, prepared so it has to extracted*
+
+> Q12. ______ is most important language for Data Science.
+
+    1. Java
+    2. R
+    3. Python
+    4 .None of the mentioned
+
+**Answer :** Option 3
+
+*Explanation : https://www.dasca.org/world-of-big-data/article/top-6-programming-languages-for-data-science-in-2021*
+
+> Q13. Data Analysis is a process of ______
+
+    1. Inspecting data
+    2. Data Cleaning
+    3. Transforming of data
+    4. All of the mentioned above
+
+**Answer :** Option 4
+
+*Explanation : The process of reviewing, cleansing, and manipulating data with the objective of identifying usable information, informing conclusions, and assisting decision-making is known as data analysis. Data analysis is important in today's business environment since it helps businesses make more scientific decisions and run more efficiently.*
+
+> Q14. By 2025, the volume of data will increase to ______
+
+    1. TB
+    2. YB
+    3. ZB
+    4. EB
+
+**Answer :**  Option 3
+
+*Explanation : It is projected that 2.5 quintillion bytes of data are created every day, with the volume of digital data expected to reach Zeta Byte by 2025.*
+
+> Q15. A good data analytics solution includes a viable self-service ___
+
+    1. Data mining
+    2. Data wrangling
+    3. Data warehouse
+    4. None of the mentioned above
+
+**Answer :** Option 2
+
+*Explanation : A smart data analytics solution incorporates self-service data wrangling and data preparation features so that data may be simply and quickly gathered from a range of incomplete, difficult, or messy data sources and cleansed for mashup and analysis.*
+
