@@ -173,3 +173,73 @@ https://www.google.com/search?q=Which+of+the+following+can+be+generally+used+to+
 
 *Explanation : A smart data analytics solution incorporates self-service data wrangling and data preparation features so that data may be simply and quickly gathered from a range of incomplete, difficult, or messy data sources and cleansed for mashup and analysis.*
 
+> Q15. A good data analytics solution includes a viable self-service ___
+
+    1. Data mining
+    2. Data wrangling
+    3. Data warehouse
+    4. None of the mentioned above
+
+**Answer :** Option 2
+
+*Explanation : A smart data analytics solution incorporates self-service data wrangling and data preparation features so that data may be simply and quickly gathered from a range of incomplete, difficult, or messy data sources and cleansed for mashup and analysis.*
+
+> Q16. Choose the primary characteristics of big data among the following
+
+    1. Velocity
+    2. Volume
+    3. Velocity
+    4. All of the above
+
+**Answer :** Option 4
+
+*Explanation :*
+
+<img src="./Images/question 16 unit dsml .jpg">
+
+<br>
+
+> Q17. Which of the following is not a part of the data science process.
+
+    1. Communication Building
+    2. Discovery
+    3. Operationalize
+    4. Model Building
+
+**Answer :** Option 1
+
+*Explanation : Data science process = Discovery-->DataPreparation-->model Planning & building-->communicating result->operationalize*
+
+
+> Q18. Which of the following is wrong attribute regarding with BIG Data characteristics 
+
+    1. Huge volume of data
+    2. complexity of data types and structures
+    3. less amount of data handling
+    4. high speed generation of data
+
+**Answer :** Option 3
+
+*Explanation : There is always large amount of data handling in case of Big Data*
+
+> Q19. In which way, we can not represent the data?
+
+    1. Structured data
+    2. Heavy-structured data
+    3. Quasi-structured Data
+    4. unstructured data
+
+**Answer :** Option 2
+
+*Explanation : only heavy structured data cannot be read represented*
+
+> Q20. Transaction of data of the bank is a type of.
+
+    1. Structured data
+    2. Unstructured data
+    3. semi structured data
+    4. hybrid 
+
+**Answer :**  Option 1
+
+
