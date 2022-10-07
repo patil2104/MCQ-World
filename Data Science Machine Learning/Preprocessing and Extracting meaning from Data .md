@@ -129,3 +129,63 @@ Strategies : <br>
     4. None of the above
 
 **Answer :** Option 1
+
+> Q11. Which of the following statements is true for correlation analysis?
+
+    1. It is a bivariate analysis
+    2. It is a multivariate analysis
+    3. It is a univariate analysis
+    4. Bivariate analysis and univariate analysis
+
+**Answer :**  Option 3
+
+*Explanation : It investigates the relationship between two data sets, with a pair of observations taken from a single sample or individual. Can be univariate*
+
+> Q12. Choose the least likely assumption of a classic normal linear regression model
+
+    1. The independent variable and the dependent 
+       variable have a linear relationship.
+    2. The independent variable is normally distributed
+    3. There is no randomness in the independent 
+       variable.
+    4. None of the preceding.
+
+**Answer :**  Option 2
+
+*Explanation: https://economictheoryblog.com/2015/04/01/ols_assumptions/*
+
+> Q13. The correlation coefficient is?
+
+    1. The square of the coefficient of determination
+    2. Can never be negative
+    3. The square root of the coefficient of determination.
+    4. The same as r square
+
+**Answer :**  Option 3
+
+*Explanation : Coefficient of Determination has been defined as the square of the coefficient of correlation*
+
+> Q14. What is the value of the correlation coefficient if the coefficient of determination is 0.81?
+
+    1. Must be positive
+    2. 0.656
+    3. Either +0.9 or -0.9
+    4. Must be negative
+
+**Answer :**  Option 3
+
+*Explanation : Coefficient of Determination has been defined as the square of the coefficient of correlation*
+
+> Q15. Regression modelling is a statistical tool for building a mathematical equation depicting how?
+
+    1. One explanatory and one or above response 
+       variables are related
+    2. There is a link between one response 
+       variable and one or many explanatory variables
+    3. Several explanatory and response  
+       variables are related
+    4. All of the above are correct.
+
+**Answer :**  Option 2
+
+*Explanation : Regression analysis is one of the machine learning techniques that are used to describe the relationship between variables. There are two types of variables in regression analysis: independent variables (whose values can be manipulated) and dependent variables (whose values depend on the values of the independent variables). Regression analysis establishes the relationship between a single dependent variable and one or more independent variables. Therefore, regression analysis is a statistical procedure for developing a mathematical equation that describes how one dependent and one or more independent variables are related.*
