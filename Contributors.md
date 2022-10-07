@@ -6,7 +6,7 @@
 
 <!-- prettier-ignore-start -->
 # Contributors :
-
+- [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Vishnu Jadhav](https://github.com/vj5501)
 - [Ram PAtil](https://github.com/RamchandraPatil2506)
 - [Reshma Gojare](https://github.com/ReshmaGojare1509)
