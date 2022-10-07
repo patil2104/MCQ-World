@@ -6,6 +6,8 @@
 
 <!-- prettier-ignore-start -->
 # Contributors :
+
+- [Navnath Jadhav](https://github.com/9nathdj)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Vishnu Jadhav](https://github.com/vj5501)
 - [Ram PAtil](https://github.com/RamchandraPatil2506)
