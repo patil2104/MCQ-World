@@ -6,6 +6,7 @@
 
 <!-- prettier-ignore-start -->
 # Contributors :
+- [Shivam Tikone](https://github.com/Shivam4402)
 - [Amit Gavit](https://github.com/ADG31)
 - [Navnath Jadhav](https://github.com/9nathdj)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
