@@ -242,4 +242,118 @@ https://www.google.com/search?q=Which+of+the+following+can+be+generally+used+to+
 
 **Answer :**  Option 1
 
+> Q21. Which of the following can be generally used to clean and prepare big data.
+
+    1. pandas
+    2. data lakes
+    3. u-sql
+    4. Data Warehouse
+
+**Answer :** Option 4
+
+*Explanation : Data Warehouses are used for big data where data is cleaned and stored*
+
+> Q22. What are the roles which are important in New Data Ecosystem?
+
+    1. Deep analytical talent
+    2. Data Savvy Professionals
+    3. Technology and data enablers
+    4. All of the above 
+
+**Answer :** Option 4
+
+*Explanation :*
+
+<img src="./Images/roles.jpg">
+
+<br>
+
+> Q23. Hadoop , Alpine Miner and Data Wrangler are common tools used in which part of the data science process
+
+    1. Model Planning
+    2. Model Building
+    3. Communicate Results 
+    4. Data Preperation
+
+**Answer :**  Option 4
+
+*Explanation :*
+
+<img src="./Images/datapreptools.jpg">
+
+<br>
+
+> Q24 Machine learning is a subset of which of the following 
+
+    1. AI
+    2. Deep learning
+    3. Data mining
+    4. None
+
+**Answer :** Option 1
+
+*Explanation : Machine learning (ML) is the subset of artificial intelligence (AI) that focuses on building systems that learn—or improve performance—based on the data they consume.*
+
+> Q25. Identify the operation which can be performed in the data warehouse.
+
+    1. alter 
+    2. modify
+    3. scan
+    4. read/write
+
+**Answer :**  Option C
+
+*Explanation Data Loading is the operation that happens in data warehouses and in order to load data we have to scan it!*
+
+> Q26.Which of the following platform provides the parallel ingestion and analysis
+
+    1. Hadoop
+    2. Alpine miner
+    3. Open Refine
+    4. Data Wrangler
+
+**Answer :** Option 1
+
+*Explanation : Hadoop can perform parallel ingest and analysis. you can also see the screenshot of question 23*
+
+> Q27. Alpine miner, a free software tool is used for___
+
+    1. Data cleaning 
+    2. Data generation 
+    3. Data transformation 
+    4. both A and C
+
+**Answer :** Option D
+
+*Explanation :*
+
+<img src="./Images/datapreptools.jpg">
+<br>
+<img src="./Images/modelbuildingtools.jpg">
+
+<br>
+> Q28. DSS in data warehouse stands for
+
+    1. data support system
+    2. decision support system
+    3. data storable system
+    4. decision sible system
+
+**Answer :**  Option 2
+
+*Explanation : A decision support system (DSS) is a computerized program used to support determinations, judgments, and courses of action in an organization or a business.*
+
+> Q29. Which of the following is not one of the main players in big data ecosystem?
+
+    1. Data Devices
+    2. Data Collectors 
+    3. Data Users
+    4. None of the above  
+
+**Answer :** Option D
+
+*Explanation :*
+
+<img src="./Images/mainplayerofbigdata.jpg">
+
 
