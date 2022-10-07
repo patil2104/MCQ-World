@@ -189,3 +189,55 @@ Strategies : <br>
 **Answer :**  Option 2
 
 *Explanation : Regression analysis is one of the machine learning techniques that are used to describe the relationship between variables. There are two types of variables in regression analysis: independent variables (whose values can be manipulated) and dependent variables (whose values depend on the values of the independent variables). Regression analysis establishes the relationship between a single dependent variable and one or more independent variables. Therefore, regression analysis is a statistical procedure for developing a mathematical equation that describes how one dependent and one or more independent variables are related.*
+
+> Q16. If any regression coefficient’s value is zero, the two variables are
+
+    1. Independent
+    2. Qualitative
+    3. Dependent
+    4. None of the above
+
+**Answer :** Option 1
+
+*Explanation : Regression line is a straight line parallel to x axis*
+
+> Q17. Which of the given strategies helps provide the prediction mechanism by analysing the relationship between two variables?
+
+    1. Regression
+    2. Standard error
+    3. Correlation
+    4. None
+
+**Answer :**  Option 1
+
+*Explanation : Regression analysis is one of the machine learning techniques that are used to describe the relationship between variables and also make prediction on one variable*
+
+> Q18. For two variables, X and Y, there can be a maximum of ___ lines
+
+    1. One
+    2. Two
+    3. Three
+    4. Four
+
+**Answer :**  Option 1
+
+*Explanation : In a graph there can be multiple regression lines but max we have to draw one perfect line which can pass through as many points as possible*
+
+> Q19. Which of the following is true for the coefficient of correlation?
+
+    1. The coefficient of correlation is not dependent on the change of scale
+    2. The coefficient of correlation is not dependent on the change of origin
+    3. The coefficient of correlation is not dependent on both the change of scale and change of origin
+    4. None of the above
+
+**Answer :** Option 2
+
+*Explanation : Correlation coefficient is not affected by change of origin it is only affected by change of scale*
+
+> Q20. Coefficient od Regression is independent of?
+
+    1. Only Scale
+    2. Only Origin
+    3. Both Scale and Origin
+    4. None
+
