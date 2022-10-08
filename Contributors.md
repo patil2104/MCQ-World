@@ -8,6 +8,7 @@
 # Contributors :
 
 - [VJ The Engineer](https://github.com/vjtheengineer)
+- [Virat Jadhav](https://github.com/VJ3xplorer)
 - [Shivam Tikone](https://github.com/Shivam4402)
 - [Amit Gavit](https://github.com/ADG31)
 - [Navnath Jadhav](https://github.com/9nathdj)
