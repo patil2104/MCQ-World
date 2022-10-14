@@ -6,6 +6,7 @@
 
 <!-- prettier-ignore-start -->
 # Contributors :
+- [Sunita Patil](https://github.com/SunitaPatil7051)
 - [Shivam Tikone](https://github.com/Shivam4402)
 - [Amit Gavit](https://github.com/ADG31)
 - [Navnath Jadhav](https://github.com/9nathdj)
