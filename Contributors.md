@@ -5,7 +5,8 @@
 - [Patil 2104](https://github.com/Patil2104)
 
 <!-- prettier-ignore-start -->
-# Contributors :
+# Contributors 
+- [Mahadev Patil](https://github.com/MahadevPatil7051)
 - [Sunita Patil](https://github.com/SunitaPatil7051)
 - [Shivam Tikone](https://github.com/Shivam4402)
 - [Amit Gavit](https://github.com/ADG31)
