@@ -6,6 +6,7 @@
 
 <!-- prettier-ignore-start -->
 # Contributors 
+- [Pranjal](https://github.com/pranjal22010870)
 - [Mahadev Patil](https://github.com/MahadevPatil7051)
 - [Sunita Patil](https://github.com/SunitaPatil7051)
 - [Shivam Tikone](https://github.com/Shivam4402)
