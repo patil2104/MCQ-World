@@ -6,6 +6,7 @@ d) all of the mentioned
 
 Answer: d
 
+
 2. What is the main function of the command interpreter?
 a) to provide the interface between the API and application program
 b) to handle the files in the operating system
