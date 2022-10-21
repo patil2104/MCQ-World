@@ -1,0 +1,9 @@
+ Which environment variable is used to set the java path?
+a) MAVEN_Path
+b) JavaPATH
+c) JAVA
+d) JAVA_HOME
+
+
+Answer: d
+Explanation: JAVA_HOME is used to store a path to the java installation.
