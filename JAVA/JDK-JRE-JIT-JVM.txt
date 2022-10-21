@@ -1,0 +1,92 @@
+1. Which component is used to compile, debug and execute java program?
+a) JVM
+b) JDK
+c) JIT
+d) JRE
+View Answer
+
+Answer: b
+Explanation: JDK is a core component of Java Environment and provides all the tools, executables and binaries required to compile, debug and execute a Java Program.
+2. Which component is responsible for converting bytecode into machine specific code?
+a) JVM
+b) JDK
+c) JIT
+d) JRE
+View Answer
+
+Answer: a
+Explanation: JVM is responsible to converting bytecode to the machine specific code. JVM is also platform dependent and provides core java functions like garbage collection, memory management, security etc.
+3. Which component is responsible to run java program?
+a) JVM
+b) JDK
+c) JIT
+d) JRE
+View Answer
+
+Answer: d
+Explanation: JRE is the implementation of JVM, it provides platform to execute java programs.
+Sanfoundry Certification Contest of the Month is Live. 100+ Subjects. Participate Now!
+4. Which component is responsible to optimize bytecode to machine code?
+a) JVM
+b) JDK
+c) JIT
+d) JRE
+View Answer
+
+Answer: c
+Explanation: JIT optimizes bytecode to machine specific language code by compiling similar bytecodes at the same time. This reduces overall time taken for compilation of bytecode to machine specific language.
+5. Which statement is true about java?
+a) Platform independent programming language
+b) Platform dependent programming language
+c) Code dependent programming language
+d) Sequence dependent programming language
+View Answer
+
+Answer: a
+Explanation: Java is called ‘Platform Independent Language’ as it primarily works on the principle of ‘compile once, run everywhere’.
+Check this: Information Technology MCQs | Java Books
+6. Which of the below is invalid identifier with the main method?
+a) public
+b) static
+c) private
+d) final
+View Answer
+
+Answer: c
+Explanation: main method cannot be private as it is invoked by external method. Other identifier are valid with main method.
+7. What is the extension of java code files?
+a) .class
+b) .java
+c) .txt
+d) .js
+View Answer
+
+Answer: b
+Explanation: Java files have .java extension.
+8. What is the extension of compiled java classes?
+a) .class
+b) .java
+c) .txt
+d) .js
+View Answer
+
+Answer: a
+Explanation: The compiled java files have .class extension.
+9. How can we identify whether a compilation unit is class or interface from a .class file?
+a) Java source file header
+b) Extension of compilation unit
+c) We cannot differentiate between class and interface
+d) The class or interface name should be postfixed with unit type
+View Answer
+
+Answer: a
+Explanation: The Java source file contains a header that declares the type of class or interface, its visibility with respect to other classes, its name and any superclass it may extend, or interface it implements.
+10. What is use of interpreter?
+a) They convert bytecode to machine language code
+b) They read high level code and execute them
+c) They are intermediated between JIT and JVM
+d) It is a synonym for JIT
+View Answer
+
+Answer: b
+Explanation: Interpreters read high level language (interprets it) and execute the program. Interpreters are normally not passing through byte-code and jit compilation.
